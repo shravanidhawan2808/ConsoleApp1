@@ -26,6 +26,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Welcome to Mul");
         }
+
+        void TestFunction()
+        {
+            Console.WriteLine("TestFunction the function");
+        }
         static void Main(string[] args)
         {
         }
