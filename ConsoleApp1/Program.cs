@@ -12,7 +12,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Welcome to pune");
         }
-           void Show()
+        void Show()
+        {
+            Console.WriteLine("Welcome to pune");
+        }
+
+        void Addition()
         {
             Console.WriteLine("Welcome to pune");
         }
