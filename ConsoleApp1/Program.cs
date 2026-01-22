@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Welcome to pune");
         }
+           void Show()
+        {
+            Console.WriteLine("Welcome to pune");
+        }
         static void Main(string[] args)
         {
         }
