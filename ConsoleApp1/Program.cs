@@ -31,6 +31,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("TestFunction the function");
         }
+
+        void NewEmployee()
+        {
+            Console.WriteLine("NewEmployee the function");
+        }
         static void Main(string[] args)
         {
         }
