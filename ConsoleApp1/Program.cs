@@ -21,6 +21,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Welcome to pune");
         }
+
+        void Mul()
+        {
+            Console.WriteLine("Welcome to Mul");
+        }
         static void Main(string[] args)
         {
         }
